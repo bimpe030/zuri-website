@@ -217,7 +217,7 @@ form {
 }
 
 .cover-style{
-    background-image: url("../Images/flower.jpeg");
+    background-image: url("../images/Flower.jpeg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -348,7 +348,7 @@ figure{
 
 .arrow i{
     float: right;
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     color: slateblue;
 }
 
