@@ -1,0 +1,43 @@
+.projects-container, .published-links h1{
+    text-align: center;
+    padding: 2rem 0;
+}
+
+.projects-container h1{
+    margin-bottom: 2rem;
+}
+
+.projects-container, .published-links{
+    width: 85%;
+    margin: 0 auto;
+}
+
+.published-links a{
+    color: black;
+    font-size: 1.1rem;
+}
+
+.published-links li{
+    margin-bottom: 1rem;
+    list-style: square;
+}
+
+.projects-container-image{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+.projects-container-image div{
+    border-radius: 5px;
+    width: 23rem;
+    height: 200px;
+    box-shadow: 2px 2px 4px rgb(119, 118, 118);
+    margin-bottom: 2.5rem;
+}
+
+.projects-container-image img{
+    width: 100%;
+    height: 100%;
+}
