@@ -226,7 +226,6 @@ form {
     margin: auto 0;
     background-color: rgb(18, 18, 219);
     padding: 1rem 0 !important;
-    border-radius: 20px;
 }
 
 .cover-text {
@@ -397,6 +396,10 @@ figure{
 
     .container-cover{
         height: auto;
+    }
+
+    .cover-style{
+    border-radius: 20px;
     }
 
     .project-image, .projects-container-image{
